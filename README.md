@@ -1,3 +1,4 @@
+# BLAGIDBALSDKJFLSKDJ
 #Tutorial for the Semantic Web course
 ### @VU University Amsterdam
 #### Rinke Hoekstra (<rinke.hoekstra@vu.nl>)
